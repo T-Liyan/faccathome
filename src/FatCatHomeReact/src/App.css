@@ -1,0 +1,25 @@
+.App {
+  background-color: pink;
+  text-align: center;
+}
+
+.Content1 {
+  display: inline-block;
+}
+.Content2 {
+  display: inline-block;
+}
+p {
+  font-size: 150%;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Courier New', Courier, monospace;
+  color: white;
+  word-wrap:break-word;
+}
+
+
+img {
+  border: 4px solid white;
+  width:400px;
+  height: 400px;
+}
